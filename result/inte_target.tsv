@@ -1,0 +1,771 @@
+	herb_id	herb_name	Type	target	inte
+0	HBIN003308	[(1s,5s,7s)-7-acetoxy-5-isopropenyl-2,8-dimethylene-cyclodecyl] acetate	terpenes	NCOA2	jvhua
+1	HBIN003308	[(1s,5s,7s)-7-acetoxy-5-isopropenyl-2,8-dimethylene-cyclodecyl] acetate	terpenes	NOS2	jvhua
+2	HBIN003308	[(1s,5s,7s)-7-acetoxy-5-isopropenyl-2,8-dimethylene-cyclodecyl] acetate	terpenes	AR	jvhua
+3	HBIN003308	[(1s,5s,7s)-7-acetoxy-5-isopropenyl-2,8-dimethylene-cyclodecyl] acetate	terpenes	ESR1	jvhua
+4	HBIN003308	[(1s,5s,7s)-7-acetoxy-5-isopropenyl-2,8-dimethylene-cyclodecyl] acetate	terpenes	PPARG	jvhua
+5	HBIN003308	[(1s,5s,7s)-7-acetoxy-5-isopropenyl-2,8-dimethylene-cyclodecyl] acetate	terpenes	CA2	jvhua
+6	HBIN003308	[(1s,5s,7s)-7-acetoxy-5-isopropenyl-2,8-dimethylene-cyclodecyl] acetate	terpenes	DPP4	jvhua
+7	HBIN003308	[(1s,5s,7s)-7-acetoxy-5-isopropenyl-2,8-dimethylene-cyclodecyl] acetate	terpenes	PTGS2	jvhua
+8	HBIN004383	24-ethylcholest-4-en-3-one	steroids	AR	jvhua
+9	HBIN004383	24-ethylcholest-4-en-3-one	steroids	NR3C1	jvhua
+10	HBIN004383	24-ethylcholest-4-en-3-one	steroids	ESR1	jvhua
+11	HBIN004383	24-ethylcholest-4-en-3-one	steroids	NR3C2	jvhua
+12	HBIN004383	24-ethylcholest-4-en-3-one	steroids	PGR	jvhua
+13	HBIN004514	(24r)-saringosterol	steroids	PGR	jvhua
+14	HBIN004514	(24r)-saringosterol	steroids	ESR1	jvhua
+15	HBIN004514	(24r)-saringosterol	steroids	AR	jvhua
+16	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	CCNA2	jvhua
+17	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	PRSS1	jvhua
+18	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	MAPK14	jvhua
+19	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	DPEP1	jvhua
+20	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	AR	jvhua
+21	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	PTGS1	jvhua
+22	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	NCOA2	jvhua
+23	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	PIM1	jvhua
+24	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	CHEK1	jvhua
+25	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	NCOA1	jvhua
+26	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	SCN5A	jvhua
+27	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	PPARG	jvhua
+28	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	GSK3B	jvhua
+29	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	CDK2	jvhua
+30	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	DPP4	jvhua
+31	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	PTGS2	jvhua
+32	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	NOS2	jvhua
+33	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	ESR2	jvhua
+34	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	ESR1	jvhua
+35	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	CALM3	jvhua
+36	HBIN011258	5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)chroman-4-one	flavonoids	CA2	jvhua
+37	HBIN014294	acacetin	flavonoids	CCNA2	jvhua
+38	HBIN014294	acacetin	flavonoids	CDKN1A	jvhua
+39	HBIN014294	acacetin	flavonoids	TP53	jvhua
+40	HBIN014294	acacetin	flavonoids	FASLG	jvhua
+41	HBIN014294	acacetin	flavonoids	PRSS1	jvhua
+42	HBIN014294	acacetin	flavonoids	MAPK14	jvhua
+43	HBIN014294	acacetin	flavonoids	ADRB2	jvhua
+44	HBIN014294	acacetin	flavonoids	BAX	jvhua
+45	HBIN014294	acacetin	flavonoids	RELA	jvhua
+46	HBIN014294	acacetin	flavonoids	DPEP1	jvhua
+47	HBIN014294	acacetin	flavonoids	BCL2	jvhua
+48	HBIN014294	acacetin	flavonoids	AR	jvhua
+49	HBIN014294	acacetin	flavonoids	PTGS1	jvhua
+50	HBIN014294	acacetin	flavonoids	CYP19A1	jvhua
+51	HBIN014294	acacetin	flavonoids	NCOA2	jvhua
+52	HBIN014294	acacetin	flavonoids	PIM1	jvhua
+53	HBIN014294	acacetin	flavonoids	CHEK1	jvhua
+54	HBIN014294	acacetin	flavonoids	NCOA1	jvhua
+55	HBIN014294	acacetin	flavonoids	CASP3	jvhua
+56	HBIN014294	acacetin	flavonoids	HTR1A	jvhua
+57	HBIN014294	acacetin	flavonoids	GSK3B	jvhua
+58	HBIN014294	acacetin	flavonoids	CASP8	jvhua
+59	HBIN014294	acacetin	flavonoids	CDK2	jvhua
+60	HBIN014294	acacetin	flavonoids	DPP4	jvhua
+61	HBIN014294	acacetin	flavonoids	PTGS2	jvhua
+62	HBIN014294	acacetin	flavonoids	PPARG	jvhua
+63	HBIN014294	acacetin	flavonoids	PDE3A	jvhua
+64	HBIN014294	acacetin	flavonoids	NOS2	jvhua
+65	HBIN014294	acacetin	flavonoids	ESR2	jvhua
+66	HBIN014294	acacetin	flavonoids	ESR1	jvhua
+67	HBIN014294	acacetin	flavonoids	CALM3	jvhua
+68	HBIN014294	acacetin	flavonoids	KCNA5	jvhua
+69	HBIN014294	acacetin	flavonoids	CA2	jvhua
+70	HBIN014294	acacetin	flavonoids	FASN	jvhua
+71	HBIN016945	artemetin	flavonoids	CCNA2	jvhua
+72	HBIN016945	artemetin	flavonoids	F7	jvhua
+73	HBIN016945	artemetin	flavonoids	PRSS1	jvhua
+74	HBIN016945	artemetin	flavonoids	MAPK14	jvhua
+75	HBIN016945	artemetin	flavonoids	AR	jvhua
+76	HBIN016945	artemetin	flavonoids	NCOA2	jvhua
+77	HBIN016945	artemetin	flavonoids	PIM1	jvhua
+78	HBIN016945	artemetin	flavonoids	CHEK1	jvhua
+79	HBIN016945	artemetin	flavonoids	KCNH2	jvhua
+80	HBIN016945	artemetin	flavonoids	SCN5A	jvhua
+81	HBIN016945	artemetin	flavonoids	GSK3B	jvhua
+82	HBIN016945	artemetin	flavonoids	PPARG	jvhua
+83	HBIN016945	artemetin	flavonoids	DPP4	jvhua
+84	HBIN016945	artemetin	flavonoids	CDK2	jvhua
+85	HBIN016945	artemetin	flavonoids	PTGS2	jvhua
+86	HBIN016945	artemetin	flavonoids	NOS2	jvhua
+87	HBIN016945	artemetin	flavonoids	ESR2	jvhua
+88	HBIN016945	artemetin	flavonoids	ESR1	jvhua
+89	HBIN016945	artemetin	flavonoids	CA2	jvhua
+90	HBIN018278	beta-sitosterol	flavonoids	CCNA2	jvhua
+91	HBIN018278	beta-sitosterol	flavonoids	PRSS1	jvhua
+92	HBIN018278	beta-sitosterol	flavonoids	MAPK14	jvhua
+93	HBIN018278	beta-sitosterol	flavonoids	ADRB2	jvhua
+94	HBIN018278	beta-sitosterol	flavonoids	CHRNA7	jvhua
+95	HBIN018278	beta-sitosterol	flavonoids	SLC6A4	jvhua
+96	HBIN018278	beta-sitosterol	flavonoids	BAX	jvhua
+97	HBIN018278	beta-sitosterol	flavonoids	DPEP1	jvhua
+98	HBIN018278	beta-sitosterol	flavonoids	TGFB1	jvhua
+99	HBIN018278	beta-sitosterol	flavonoids	BCL2	jvhua
+100	HBIN018278	beta-sitosterol	flavonoids	CHRM1	jvhua
+101	HBIN018278	beta-sitosterol	flavonoids	AR	jvhua
+102	HBIN018278	beta-sitosterol	flavonoids	CHRM2	jvhua
+103	HBIN018278	beta-sitosterol	flavonoids	GABRA1	jvhua
+104	HBIN018278	beta-sitosterol	flavonoids	PON1	jvhua
+105	HBIN018278	beta-sitosterol	flavonoids	ACHE	jvhua
+106	HBIN018278	beta-sitosterol	flavonoids	PTGS1	jvhua
+107	HBIN018278	beta-sitosterol	flavonoids	JUN	jvhua
+108	HBIN018278	beta-sitosterol	flavonoids	NR3C2	jvhua
+109	HBIN018278	beta-sitosterol	flavonoids	PRKCA	jvhua
+110	HBIN018278	beta-sitosterol	flavonoids	CASP9	jvhua
+111	HBIN018278	beta-sitosterol	flavonoids	CHRM4	jvhua
+112	HBIN018278	beta-sitosterol	flavonoids	NCOA2	jvhua
+113	HBIN018278	beta-sitosterol	flavonoids	DRD1	jvhua
+114	HBIN018278	beta-sitosterol	flavonoids	PIM1	jvhua
+115	HBIN018278	beta-sitosterol	flavonoids	CHEK1	jvhua
+116	HBIN018278	beta-sitosterol	flavonoids	KCNH2	jvhua
+117	HBIN018278	beta-sitosterol	flavonoids	NR3C1	jvhua
+118	HBIN018278	beta-sitosterol	flavonoids	SCN5A	jvhua
+119	HBIN018278	beta-sitosterol	flavonoids	CASP3	jvhua
+120	HBIN018278	beta-sitosterol	flavonoids	OPRM1	jvhua
+121	HBIN018278	beta-sitosterol	flavonoids	CHRM3	jvhua
+122	HBIN018278	beta-sitosterol	flavonoids	DPP4	jvhua
+123	HBIN018278	beta-sitosterol	flavonoids	CASP8	jvhua
+124	HBIN018278	beta-sitosterol	flavonoids	GSK3B	jvhua
+125	HBIN018278	beta-sitosterol	flavonoids	CDK2	jvhua
+126	HBIN018278	beta-sitosterol	flavonoids	PPARG	jvhua
+127	HBIN018278	beta-sitosterol	flavonoids	PGR	jvhua
+128	HBIN018278	beta-sitosterol	flavonoids	CHRNA2	jvhua
+129	HBIN018278	beta-sitosterol	flavonoids	PDE3A	jvhua
+130	HBIN018278	beta-sitosterol	flavonoids	PTGS2	jvhua
+131	HBIN018278	beta-sitosterol	flavonoids	ADRA1D	jvhua
+132	HBIN018278	beta-sitosterol	flavonoids	NOS2	jvhua
+133	HBIN018278	beta-sitosterol	flavonoids	ADRA1B	jvhua
+134	HBIN018278	beta-sitosterol	flavonoids	ESR2	jvhua
+135	HBIN018278	beta-sitosterol	flavonoids	MAP2	jvhua
+136	HBIN018278	beta-sitosterol	flavonoids	ESR1	jvhua
+137	HBIN018278	beta-sitosterol	flavonoids	CA2	jvhua
+138	HBIN020445	chryseriol	flavonoids	CCNA2	jvhua
+139	HBIN020445	chryseriol	flavonoids	PRSS1	jvhua
+140	HBIN020445	chryseriol	flavonoids	MAPK14	jvhua
+141	HBIN020445	chryseriol	flavonoids	ABCC1	jvhua
+142	HBIN020445	chryseriol	flavonoids	DPEP1	jvhua
+143	HBIN020445	chryseriol	flavonoids	AR	jvhua
+144	HBIN020445	chryseriol	flavonoids	PTGS1	jvhua
+145	HBIN020445	chryseriol	flavonoids	CYP1A1	jvhua
+146	HBIN020445	chryseriol	flavonoids	NCOA2	jvhua
+147	HBIN020445	chryseriol	flavonoids	PIM1	jvhua
+148	HBIN020445	chryseriol	flavonoids	CHEK1	jvhua
+149	HBIN020445	chryseriol	flavonoids	NCOA1	jvhua
+150	HBIN020445	chryseriol	flavonoids	PPARG	jvhua
+151	HBIN020445	chryseriol	flavonoids	DPP4	jvhua
+152	HBIN020445	chryseriol	flavonoids	GSK3B	jvhua
+153	HBIN020445	chryseriol	flavonoids	CDK2	jvhua
+154	HBIN020445	chryseriol	flavonoids	PTGS2	jvhua
+155	HBIN020445	chryseriol	flavonoids	NOS2	jvhua
+156	HBIN020445	chryseriol	flavonoids	ESR2	jvhua
+157	HBIN020445	chryseriol	flavonoids	ESR1	jvhua
+158	HBIN020445	chryseriol	flavonoids	CALM3	jvhua
+159	HBIN020445	chryseriol	flavonoids	CA2	jvhua
+160	HBIN020445	chryseriol	flavonoids	CYP1A2	jvhua
+161	HBIN022470	cynarin(e)	Other	PRSS1	jvhua
+162	HBIN024184	diosmetin	flavonoids	CCNA2	jvhua
+163	HBIN024184	diosmetin	flavonoids	PIK3CA	jvhua
+164	HBIN024184	diosmetin	flavonoids	PIK3R1	jvhua
+165	HBIN024184	diosmetin	flavonoids	PRSS1	jvhua
+166	HBIN024184	diosmetin	flavonoids	AKT1	jvhua
+167	HBIN024184	diosmetin	flavonoids	PIK3CB	jvhua
+168	HBIN024184	diosmetin	flavonoids	MAPK14	jvhua
+169	HBIN024184	diosmetin	flavonoids	ABCC1	jvhua
+170	HBIN024184	diosmetin	flavonoids	GABPA	jvhua
+171	HBIN024184	diosmetin	flavonoids	DPEP1	jvhua
+172	HBIN024184	diosmetin	flavonoids	AR	jvhua
+173	HBIN024184	diosmetin	flavonoids	PTGS1	jvhua
+174	HBIN024184	diosmetin	flavonoids	CYP2C8	jvhua
+175	HBIN024184	diosmetin	flavonoids	CYP1A1	jvhua
+176	HBIN024184	diosmetin	flavonoids	PKM	jvhua
+177	HBIN024184	diosmetin	flavonoids	NCOA2	jvhua
+178	HBIN024184	diosmetin	flavonoids	PIM1	jvhua
+179	HBIN024184	diosmetin	flavonoids	CHEK1	jvhua
+180	HBIN024184	diosmetin	flavonoids	NCOA1	jvhua
+181	HBIN024184	diosmetin	flavonoids	NFE2L2	jvhua
+182	HBIN024184	diosmetin	flavonoids	GSK3B	jvhua
+183	HBIN024184	diosmetin	flavonoids	CDK2	jvhua
+184	HBIN024184	diosmetin	flavonoids	DPP4	jvhua
+185	HBIN024184	diosmetin	flavonoids	PPARG	jvhua
+186	HBIN024184	diosmetin	flavonoids	PTGS2	jvhua
+187	HBIN024184	diosmetin	flavonoids	PIK3CG	jvhua
+188	HBIN024184	diosmetin	flavonoids	NOS2	jvhua
+189	HBIN024184	diosmetin	flavonoids	ESR2	jvhua
+190	HBIN024184	diosmetin	flavonoids	ESR1	jvhua
+191	HBIN024184	diosmetin	flavonoids	CALM3	jvhua
+192	HBIN024184	diosmetin	flavonoids	PIK3CD	jvhua
+193	HBIN024184	diosmetin	flavonoids	CA2	jvhua
+194	HBIN026154	eupatorin	flavonoids	CYP3A4	jvhua
+195	HBIN026154	eupatorin	flavonoids	CCNA2	jvhua
+196	HBIN026154	eupatorin	flavonoids	F7	jvhua
+197	HBIN026154	eupatorin	flavonoids	PRSS1	jvhua
+198	HBIN026154	eupatorin	flavonoids	MAPK14	jvhua
+199	HBIN026154	eupatorin	flavonoids	DPEP1	jvhua
+200	HBIN026154	eupatorin	flavonoids	CYP2D6	jvhua
+201	HBIN026154	eupatorin	flavonoids	AR	jvhua
+202	HBIN026154	eupatorin	flavonoids	PTGS1	jvhua
+203	HBIN026154	eupatorin	flavonoids	CYP1A1	jvhua
+204	HBIN026154	eupatorin	flavonoids	NCOA2	jvhua
+205	HBIN026154	eupatorin	flavonoids	PIM1	jvhua
+206	HBIN026154	eupatorin	flavonoids	CHEK1	jvhua
+207	HBIN026154	eupatorin	flavonoids	NCOA1	jvhua
+208	HBIN026154	eupatorin	flavonoids	SCN5A	jvhua
+209	HBIN026154	eupatorin	flavonoids	GSK3B	jvhua
+210	HBIN026154	eupatorin	flavonoids	CDK2	jvhua
+211	HBIN026154	eupatorin	flavonoids	DPP4	jvhua
+212	HBIN026154	eupatorin	flavonoids	CYP2C19	jvhua
+213	HBIN026154	eupatorin	flavonoids	PTGS2	jvhua
+214	HBIN026154	eupatorin	flavonoids	PPARG	jvhua
+215	HBIN026154	eupatorin	flavonoids	NOS2	jvhua
+216	HBIN026154	eupatorin	flavonoids	ESR2	jvhua
+217	HBIN026154	eupatorin	flavonoids	ESR1	jvhua
+218	HBIN026154	eupatorin	flavonoids	CA2	jvhua
+219	HBIN026154	eupatorin	flavonoids	AURKB	jvhua
+220	HBIN031114	isorhamnetin	flavonoids	XDH	jvhua
+221	HBIN031114	isorhamnetin	flavonoids	CYCLIN B1	jvhua
+222	HBIN031114	isorhamnetin	flavonoids	CCNA2	jvhua
+223	HBIN031114	isorhamnetin	flavonoids	F7	jvhua
+224	HBIN031114	isorhamnetin	flavonoids	PRSS1	jvhua
+225	HBIN031114	isorhamnetin	flavonoids	PARP1	jvhua
+226	HBIN031114	isorhamnetin	flavonoids	OLR1	jvhua
+227	HBIN031114	isorhamnetin	flavonoids	MAPK14	jvhua
+228	HBIN031114	isorhamnetin	flavonoids	WEE1	jvhua
+229	HBIN031114	isorhamnetin	flavonoids	DPEP1	jvhua
+230	HBIN031114	isorhamnetin	flavonoids	RELA	jvhua
+231	HBIN031114	isorhamnetin	flavonoids	AR	jvhua
+232	HBIN031114	isorhamnetin	flavonoids	CAMK2G	jvhua
+233	HBIN031114	isorhamnetin	flavonoids	GABRA1	jvhua
+234	HBIN031114	isorhamnetin	flavonoids	PTGS1	jvhua
+235	HBIN031114	isorhamnetin	flavonoids	ACHE	jvhua
+236	HBIN031114	isorhamnetin	flavonoids	NCOA2	jvhua
+237	HBIN031114	isorhamnetin	flavonoids	DRP1	jvhua
+238	HBIN031114	isorhamnetin	flavonoids	GRIA2	jvhua
+239	HBIN031114	isorhamnetin	flavonoids	CSK	jvhua
+240	HBIN031114	isorhamnetin	flavonoids	PIM1	jvhua
+241	HBIN031114	isorhamnetin	flavonoids	CHEK1	jvhua
+242	HBIN031114	isorhamnetin	flavonoids	NCOA1	jvhua
+243	HBIN031114	isorhamnetin	flavonoids	PYGM	jvhua
+244	HBIN031114	isorhamnetin	flavonoids	AKR1B1	jvhua
+245	HBIN031114	isorhamnetin	flavonoids	CASP3	jvhua
+246	HBIN031114	isorhamnetin	flavonoids	GSK3B	jvhua
+247	HBIN031114	isorhamnetin	flavonoids	CASP8	jvhua
+248	HBIN031114	isorhamnetin	flavonoids	CDK2	jvhua
+249	HBIN031114	isorhamnetin	flavonoids	MAOB	jvhua
+250	HBIN031114	isorhamnetin	flavonoids	PTGS2	jvhua
+251	HBIN031114	isorhamnetin	flavonoids	PPARG	jvhua
+252	HBIN031114	isorhamnetin	flavonoids	DPP4	jvhua
+253	HBIN031114	isorhamnetin	flavonoids	NOS2	jvhua
+254	HBIN031114	isorhamnetin	flavonoids	ESR2	jvhua
+255	HBIN031114	isorhamnetin	flavonoids	PPARD	jvhua
+256	HBIN031114	isorhamnetin	flavonoids	ESR1	jvhua
+257	HBIN031114	isorhamnetin	flavonoids	CA2	jvhua
+258	HBIN031114	isorhamnetin	flavonoids	NCF1	jvhua
+259	HBIN031753	kaempferol	flavonoids	CYP3A4	jvhua
+260	HBIN031753	kaempferol	flavonoids	XDH	jvhua
+261	HBIN031753	kaempferol	flavonoids	MMP1	jvhua
+262	HBIN031753	kaempferol	flavonoids	AHSA1	jvhua
+263	HBIN031753	kaempferol	flavonoids	CCNA2	jvhua
+264	HBIN031753	kaempferol	flavonoids	F7	jvhua
+265	HBIN031753	kaempferol	flavonoids	PRSS1	jvhua
+266	HBIN031753	kaempferol	flavonoids	IKBKB	jvhua
+267	HBIN031753	kaempferol	flavonoids	TNF	jvhua
+268	HBIN031753	kaempferol	flavonoids	NR1I2	jvhua
+269	HBIN031753	kaempferol	flavonoids	AKT1	jvhua
+270	HBIN031753	kaempferol	flavonoids	GSTM1	jvhua
+271	HBIN031753	kaempferol	flavonoids	NR1I3	jvhua
+272	HBIN031753	kaempferol	flavonoids	MAPK14	jvhua
+273	HBIN031753	kaempferol	flavonoids	HAS2	jvhua
+274	HBIN031753	kaempferol	flavonoids	ICAM1	jvhua
+275	HBIN031753	kaempferol	flavonoids	CDK1	jvhua
+276	HBIN031753	kaempferol	flavonoids	BAX	jvhua
+277	HBIN031753	kaempferol	flavonoids	HMOX1	jvhua
+278	HBIN031753	kaempferol	flavonoids	RELA	jvhua
+279	HBIN031753	kaempferol	flavonoids	BCL2	jvhua
+280	HBIN031753	kaempferol	flavonoids	PSMD3	jvhua
+281	HBIN031753	kaempferol	flavonoids	STAT1	jvhua
+282	HBIN031753	kaempferol	flavonoids	CHRM1	jvhua
+283	HBIN031753	kaempferol	flavonoids	AR	jvhua
+284	HBIN031753	kaempferol	flavonoids	DIO1	jvhua
+285	HBIN031753	kaempferol	flavonoids	DPEP1	jvhua
+286	HBIN031753	kaempferol	flavonoids	GABRA1	jvhua
+287	HBIN031753	kaempferol	flavonoids	ALOX5	jvhua
+288	HBIN031753	kaempferol	flavonoids	CHRM2	jvhua
+289	HBIN031753	kaempferol	flavonoids	PPP3CA	jvhua
+290	HBIN031753	kaempferol	flavonoids	SELE	jvhua
+291	HBIN031753	kaempferol	flavonoids	ACHE	jvhua
+292	HBIN031753	kaempferol	flavonoids	CYP1B1	jvhua
+293	HBIN031753	kaempferol	flavonoids	JUN	jvhua
+294	HBIN031753	kaempferol	flavonoids	PTGS1	jvhua
+295	HBIN031753	kaempferol	flavonoids	GSTP1	jvhua
+296	HBIN031753	kaempferol	flavonoids	AKR1C3	jvhua
+297	HBIN031753	kaempferol	flavonoids	AHR	jvhua
+298	HBIN031753	kaempferol	flavonoids	INSR	jvhua
+299	HBIN031753	kaempferol	flavonoids	SLC6A2	jvhua
+300	HBIN031753	kaempferol	flavonoids	CYP1A1	jvhua
+301	HBIN031753	kaempferol	flavonoids	NCOA2	jvhua
+302	HBIN031753	kaempferol	flavonoids	GSTM2	jvhua
+303	HBIN031753	kaempferol	flavonoids	PIM1	jvhua
+304	HBIN031753	kaempferol	flavonoids	CHEK1	jvhua
+305	HBIN031753	kaempferol	flavonoids	CASP3	jvhua
+306	HBIN031753	kaempferol	flavonoids	SLPI	jvhua
+307	HBIN031753	kaempferol	flavonoids	PPARG	jvhua
+308	HBIN031753	kaempferol	flavonoids	CDK2	jvhua
+309	HBIN031753	kaempferol	flavonoids	GSK3B	jvhua
+310	HBIN031753	kaempferol	flavonoids	DPP4	jvhua
+311	HBIN031753	kaempferol	flavonoids	PTGS2	jvhua
+312	HBIN031753	kaempferol	flavonoids	PGR	jvhua
+313	HBIN031753	kaempferol	flavonoids	MAPK8	jvhua
+314	HBIN031753	kaempferol	flavonoids	NOS2	jvhua
+315	HBIN031753	kaempferol	flavonoids	ADRA1B	jvhua
+316	HBIN031753	kaempferol	flavonoids	ESR2	jvhua
+317	HBIN031753	kaempferol	flavonoids	POLD1	jvhua
+318	HBIN031753	kaempferol	flavonoids	ESR1	jvhua
+319	HBIN031753	kaempferol	flavonoids	CALM3	jvhua
+320	HBIN031753	kaempferol	flavonoids	CA2	jvhua
+321	HBIN031753	kaempferol	flavonoids	SLC2A4	jvhua
+322	HBIN031753	kaempferol	flavonoids	VCAM1	jvhua
+323	HBIN031753	kaempferol	flavonoids	CYP1A2	jvhua
+324	HBIN033803	luteolin	flavonoids	XDH	jvhua
+325	HBIN033803	luteolin	flavonoids	MET	jvhua
+326	HBIN033803	luteolin	flavonoids	MMP1	jvhua
+327	HBIN033803	luteolin	flavonoids	APP	jvhua
+328	HBIN033803	luteolin	flavonoids	IFNG	jvhua
+329	HBIN033803	luteolin	flavonoids	CDKN1A	jvhua
+330	HBIN033803	luteolin	flavonoids	MMP2	jvhua
+331	HBIN033803	luteolin	flavonoids	TP53	jvhua
+332	HBIN033803	luteolin	flavonoids	CCNA2	jvhua
+333	HBIN033803	luteolin	flavonoids	PRSS1	jvhua
+334	HBIN033803	luteolin	flavonoids	TNF	jvhua
+335	HBIN033803	luteolin	flavonoids	AKT1	jvhua
+336	HBIN033803	luteolin	flavonoids	IL10	jvhua
+337	HBIN033803	luteolin	flavonoids	CCND1	jvhua
+338	HBIN033803	luteolin	flavonoids	CCNB1	jvhua
+339	HBIN033803	luteolin	flavonoids	BIRC5	jvhua
+340	HBIN033803	luteolin	flavonoids	MMP9	jvhua
+341	HBIN033803	luteolin	flavonoids	MAPK14	jvhua
+342	HBIN033803	luteolin	flavonoids	EGFR	jvhua
+343	HBIN033803	luteolin	flavonoids	ICAM1	jvhua
+344	HBIN033803	luteolin	flavonoids	HMOX1	jvhua
+345	HBIN033803	luteolin	flavonoids	RELA	jvhua
+346	HBIN033803	luteolin	flavonoids	TOP1	jvhua
+347	HBIN033803	luteolin	flavonoids	IL2	jvhua
+348	HBIN033803	luteolin	flavonoids	NUF2	jvhua
+349	HBIN033803	luteolin	flavonoids	AR	jvhua
+350	HBIN033803	luteolin	flavonoids	NFKBIA	jvhua
+351	HBIN033803	luteolin	flavonoids	CD40LG	jvhua
+352	HBIN033803	luteolin	flavonoids	VEGFA	jvhua
+353	HBIN033803	luteolin	flavonoids	MAPK1	jvhua
+354	HBIN033803	luteolin	flavonoids	RB1	jvhua
+355	HBIN033803	luteolin	flavonoids	PTGS1	jvhua
+356	HBIN033803	luteolin	flavonoids	JUN	jvhua
+357	HBIN033803	luteolin	flavonoids	GSTP1	jvhua
+358	HBIN033803	luteolin	flavonoids	CASP9	jvhua
+359	HBIN033803	luteolin	flavonoids	XIAP	jvhua
+360	HBIN033803	luteolin	flavonoids	INSR	jvhua
+361	HBIN033803	luteolin	flavonoids	MDM2	jvhua
+362	HBIN033803	luteolin	flavonoids	PCNA	jvhua
+363	HBIN033803	luteolin	flavonoids	PTGES	jvhua
+364	HBIN033803	luteolin	flavonoids	NCOA2	jvhua
+365	HBIN033803	luteolin	flavonoids	ADCY2	jvhua
+366	HBIN033803	luteolin	flavonoids	PIM1	jvhua
+367	HBIN033803	luteolin	flavonoids	TOP2A	jvhua
+368	HBIN033803	luteolin	flavonoids	CASP3	jvhua
+369	HBIN033803	luteolin	flavonoids	ERBB2	jvhua
+370	HBIN033803	luteolin	flavonoids	PPARG	jvhua
+371	HBIN033803	luteolin	flavonoids	CDK2	jvhua
+372	HBIN033803	luteolin	flavonoids	DPP4	jvhua
+373	HBIN033803	luteolin	flavonoids	GSK3B	jvhua
+374	HBIN033803	luteolin	flavonoids	PTGS2	jvhua
+375	HBIN033803	luteolin	flavonoids	NOS2	jvhua
+376	HBIN033803	luteolin	flavonoids	IL6	jvhua
+377	HBIN033803	luteolin	flavonoids	ESR2	jvhua
+378	HBIN033803	luteolin	flavonoids	CASP7	jvhua
+379	HBIN033803	luteolin	flavonoids	ESR1	jvhua
+380	HBIN033803	luteolin	flavonoids	IL4	jvhua
+381	HBIN033803	luteolin	flavonoids	MAPK3	jvhua
+382	HBIN033803	luteolin	flavonoids	TYR	jvhua
+383	HBIN033803	luteolin	flavonoids	CA2	jvhua
+384	HBIN033803	luteolin	flavonoids	BCL2L1	jvhua
+385	HBIN033803	luteolin	flavonoids	SLC2A4	jvhua
+386	HBIN033803	luteolin	flavonoids	CDK4	jvhua
+387	HBIN033803	luteolin	flavonoids	MCL1	jvhua
+388	HBIN036366	naringenin	flavonoids	SREBF1	jvhua
+389	HBIN036366	naringenin	flavonoids	IFNG	jvhua
+390	HBIN036366	naringenin	flavonoids	CCNA2	jvhua
+391	HBIN036366	naringenin	flavonoids	ICMT	jvhua
+392	HBIN036366	naringenin	flavonoids	APOB	jvhua
+393	HBIN036366	naringenin	flavonoids	UGT1A1	jvhua
+394	HBIN036366	naringenin	flavonoids	AKT1	jvhua
+395	HBIN036366	naringenin	flavonoids	MAPK14	jvhua
+396	HBIN036366	naringenin	flavonoids	MTTP	jvhua
+397	HBIN036366	naringenin	flavonoids	ABAT	jvhua
+398	HBIN036366	naringenin	flavonoids	NFKB1	jvhua
+399	HBIN036366	naringenin	flavonoids	TGM2	jvhua
+400	HBIN036366	naringenin	flavonoids	ABCC1	jvhua
+401	HBIN036366	naringenin	flavonoids	SOD1	jvhua
+402	HBIN036366	naringenin	flavonoids	RELA	jvhua
+403	HBIN036366	naringenin	flavonoids	PPARA	jvhua
+404	HBIN036366	naringenin	flavonoids	IL2	jvhua
+405	HBIN036366	naringenin	flavonoids	BCL2	jvhua
+406	HBIN036366	naringenin	flavonoids	NLRP3	jvhua
+407	HBIN036366	naringenin	flavonoids	SOAT1	jvhua
+408	HBIN036366	naringenin	flavonoids	SOAT2	jvhua
+409	HBIN036366	naringenin	flavonoids	DPEP1	jvhua
+410	HBIN036366	naringenin	flavonoids	AR	jvhua
+411	HBIN036366	naringenin	flavonoids	CES1	jvhua
+412	HBIN036366	naringenin	flavonoids	MAPK1	jvhua
+413	HBIN036366	naringenin	flavonoids	BAD	jvhua
+414	HBIN036366	naringenin	flavonoids	PTGS1	jvhua
+415	HBIN036366	naringenin	flavonoids	GSTP1	jvhua
+416	HBIN036366	naringenin	flavonoids	CYP19A1	jvhua
+417	HBIN036366	naringenin	flavonoids	AKR1C1	jvhua
+418	HBIN036366	naringenin	flavonoids	GOT1	jvhua
+419	HBIN036366	naringenin	flavonoids	NFE2L2	jvhua
+420	HBIN036366	naringenin	flavonoids	MAP2K7	jvhua
+421	HBIN036366	naringenin	flavonoids	LDLR	jvhua
+422	HBIN036366	naringenin	flavonoids	CASP3	jvhua
+423	HBIN036366	naringenin	flavonoids	PKD2	jvhua
+424	HBIN036366	naringenin	flavonoids	ADIPOQ	jvhua
+425	HBIN036366	naringenin	flavonoids	PLB1	jvhua
+426	HBIN036366	naringenin	flavonoids	PPARG	jvhua
+427	HBIN036366	naringenin	flavonoids	GSK3B	jvhua
+428	HBIN036366	naringenin	flavonoids	HMGCR	jvhua
+429	HBIN036366	naringenin	flavonoids	CDK2	jvhua
+430	HBIN036366	naringenin	flavonoids	PTGS2	jvhua
+431	HBIN036366	naringenin	flavonoids	MTOR	jvhua
+432	HBIN036366	naringenin	flavonoids	DPP4	jvhua
+433	HBIN036366	naringenin	flavonoids	NOS2	jvhua
+434	HBIN036366	naringenin	flavonoids	GSR	jvhua
+435	HBIN036366	naringenin	flavonoids	ESR2	jvhua
+436	HBIN036366	naringenin	flavonoids	CAT	jvhua
+437	HBIN036366	naringenin	flavonoids	ESR1	jvhua
+438	HBIN036366	naringenin	flavonoids	MAPK3	jvhua
+439	HBIN036366	naringenin	flavonoids	CA2	jvhua
+440	HBIN036366	naringenin	flavonoids	FASN	jvhua
+441	HBIN040583	poriferast-5-en-3beta-ol	steroids	NCOA2	jvhua
+442	HBIN040583	poriferast-5-en-3beta-ol	steroids	AR	jvhua
+443	HBIN040583	poriferast-5-en-3beta-ol	steroids	NR3C1	jvhua
+444	HBIN040583	poriferast-5-en-3beta-ol	steroids	ESR1	jvhua
+445	HBIN040583	poriferast-5-en-3beta-ol	steroids	PGR	jvhua
+446	HBIN041495	quercetin	flavonoids	XDH	jvhua
+447	HBIN041495	quercetin	flavonoids	MMP2	jvhua
+448	HBIN041495	quercetin	flavonoids	IFNG	jvhua
+449	HBIN041495	quercetin	flavonoids	AHSA1	jvhua
+450	HBIN041495	quercetin	flavonoids	TP53	jvhua
+451	HBIN041495	quercetin	flavonoids	CCND1	jvhua
+452	HBIN041495	quercetin	flavonoids	CCNB1	jvhua
+453	HBIN041495	quercetin	flavonoids	GSTM1	jvhua
+454	HBIN041495	quercetin	flavonoids	ADRB2	jvhua
+455	HBIN041495	quercetin	flavonoids	CCL2	jvhua
+456	HBIN041495	quercetin	flavonoids	IRF1	jvhua
+457	HBIN041495	quercetin	flavonoids	EGFR	jvhua
+458	HBIN041495	quercetin	flavonoids	ICAM1	jvhua
+459	HBIN041495	quercetin	flavonoids	BCL2	jvhua
+460	HBIN041495	quercetin	flavonoids	SOD3	jvhua
+461	HBIN041495	quercetin	flavonoids	CXCL10	jvhua
+462	HBIN041495	quercetin	flavonoids	AR	jvhua
+463	HBIN041495	quercetin	flavonoids	CTSD	jvhua
+464	HBIN041495	quercetin	flavonoids	CHEK2	jvhua
+465	HBIN041495	quercetin	flavonoids	PON1	jvhua
+466	HBIN041495	quercetin	flavonoids	PLAU	jvhua
+467	HBIN041495	quercetin	flavonoids	SELE	jvhua
+468	HBIN041495	quercetin	flavonoids	HSPB1	jvhua
+469	HBIN041495	quercetin	flavonoids	GSTP1	jvhua
+470	HBIN041495	quercetin	flavonoids	MPO	jvhua
+471	HBIN041495	quercetin	flavonoids	MYC	jvhua
+472	HBIN041495	quercetin	flavonoids	RASA1	jvhua
+473	HBIN041495	quercetin	flavonoids	MMP3	jvhua
+474	HBIN041495	quercetin	flavonoids	PIM1	jvhua
+475	HBIN041495	quercetin	flavonoids	KCNH2	jvhua
+476	HBIN041495	quercetin	flavonoids	RUNX2	jvhua
+477	HBIN041495	quercetin	flavonoids	DPP4	jvhua
+478	HBIN041495	quercetin	flavonoids	CDK2	jvhua
+479	HBIN041495	quercetin	flavonoids	CXCL8	jvhua
+480	HBIN041495	quercetin	flavonoids	NOS2	jvhua
+481	HBIN041495	quercetin	flavonoids	ESR2	jvhua
+482	HBIN041495	quercetin	flavonoids	MAPK3	jvhua
+483	HBIN041495	quercetin	flavonoids	PLAT	jvhua
+484	HBIN041495	quercetin	flavonoids	MGAM	jvhua
+485	HBIN041495	quercetin	flavonoids	PTEN	jvhua
+486	HBIN041495	quercetin	flavonoids	HIF1A	jvhua
+487	HBIN041495	quercetin	flavonoids	NPEPPS	jvhua
+488	HBIN041495	quercetin	flavonoids	E2F2	jvhua
+489	HBIN041495	quercetin	flavonoids	F7	jvhua
+490	HBIN041495	quercetin	flavonoids	NR1I2	jvhua
+491	HBIN041495	quercetin	flavonoids	ACAA2	jvhua
+492	HBIN041495	quercetin	flavonoids	NR1I3	jvhua
+493	HBIN041495	quercetin	flavonoids	HAS2	jvhua
+494	HBIN041495	quercetin	flavonoids	CXCL11	jvhua
+495	HBIN041495	quercetin	flavonoids	CXCL2	jvhua
+496	HBIN041495	quercetin	flavonoids	BAX	jvhua
+497	HBIN041495	quercetin	flavonoids	DPEP1	jvhua
+498	HBIN041495	quercetin	flavonoids	PPARA	jvhua
+499	HBIN041495	quercetin	flavonoids	IL2	jvhua
+500	HBIN041495	quercetin	flavonoids	EGF	jvhua
+501	HBIN041495	quercetin	flavonoids	DCAF5	jvhua
+502	HBIN041495	quercetin	flavonoids	JUN	jvhua
+503	HBIN041495	quercetin	flavonoids	CASP9	jvhua
+504	HBIN041495	quercetin	flavonoids	AHR	jvhua
+505	HBIN041495	quercetin	flavonoids	DUOX2	jvhua
+506	HBIN041495	quercetin	flavonoids	CYP1A1	jvhua
+507	HBIN041495	quercetin	flavonoids	NCOA2	jvhua
+508	HBIN041495	quercetin	flavonoids	CHEK1	jvhua
+509	HBIN041495	quercetin	flavonoids	NFE2L2	jvhua
+510	HBIN041495	quercetin	flavonoids	ERBB2	jvhua
+511	HBIN041495	quercetin	flavonoids	PCOLCE	jvhua
+512	HBIN041495	quercetin	flavonoids	RXRA	jvhua
+513	HBIN041495	quercetin	flavonoids	CAV1	jvhua
+514	HBIN041495	quercetin	flavonoids	PPARD	jvhua
+515	HBIN041495	quercetin	flavonoids	SULT1E1	jvhua
+516	HBIN041495	quercetin	flavonoids	RAF1	jvhua
+517	HBIN041495	quercetin	flavonoids	NOS3	jvhua
+518	HBIN041495	quercetin	flavonoids	CYP1A2	jvhua
+519	HBIN041495	quercetin	flavonoids	PRKCB	jvhua
+520	HBIN041495	quercetin	flavonoids	CYP3A4	jvhua
+521	HBIN041495	quercetin	flavonoids	ERBB3	jvhua
+522	HBIN041495	quercetin	flavonoids	CDKN1A	jvhua
+523	HBIN041495	quercetin	flavonoids	RUNX1T1	jvhua
+524	HBIN041495	quercetin	flavonoids	PARP1	jvhua
+525	HBIN041495	quercetin	flavonoids	TNF	jvhua
+526	HBIN041495	quercetin	flavonoids	BIRC5	jvhua
+527	HBIN041495	quercetin	flavonoids	STAT1	jvhua
+528	HBIN041495	quercetin	flavonoids	RELA	jvhua
+529	HBIN041495	quercetin	flavonoids	COL1A1	jvhua
+530	HBIN041495	quercetin	flavonoids	PSMD3	jvhua
+531	HBIN041495	quercetin	flavonoids	NFKBIA	jvhua
+532	HBIN041495	quercetin	flavonoids	GABRA1	jvhua
+533	HBIN041495	quercetin	flavonoids	CD40LG	jvhua
+534	HBIN041495	quercetin	flavonoids	VEGFA	jvhua
+535	HBIN041495	quercetin	flavonoids	MAPK1	jvhua
+536	HBIN041495	quercetin	flavonoids	HSF1	jvhua
+537	HBIN041495	quercetin	flavonoids	ELK1	jvhua
+538	HBIN041495	quercetin	flavonoids	INSR	jvhua
+539	HBIN041495	quercetin	flavonoids	GSTM2	jvhua
+540	HBIN041495	quercetin	flavonoids	CDKN2A	jvhua
+541	HBIN041495	quercetin	flavonoids	SCN5A	jvhua
+542	HBIN041495	quercetin	flavonoids	CASP3	jvhua
+543	HBIN041495	quercetin	flavonoids	PPARG	jvhua
+544	HBIN041495	quercetin	flavonoids	PTGS2	jvhua
+545	HBIN041495	quercetin	flavonoids	NQO1	jvhua
+546	HBIN041495	quercetin	flavonoids	E2F1	jvhua
+547	HBIN041495	quercetin	flavonoids	SPP1	jvhua
+548	HBIN041495	quercetin	flavonoids	ODC1	jvhua
+549	HBIN041495	quercetin	flavonoids	CAT	jvhua
+550	HBIN041495	quercetin	flavonoids	F3	jvhua
+551	HBIN041495	quercetin	flavonoids	IGF2	jvhua
+552	HBIN041495	quercetin	flavonoids	CA2	jvhua
+553	HBIN041495	quercetin	flavonoids	EIF6	jvhua
+554	HBIN041495	quercetin	flavonoids	SLC2A4	jvhua
+555	HBIN041495	quercetin	flavonoids	CHUK	jvhua
+556	HBIN041495	quercetin	flavonoids	NCF1	jvhua
+557	HBIN041495	quercetin	flavonoids	RASSF1	jvhua
+558	HBIN041495	quercetin	flavonoids	MMP1	jvhua
+559	HBIN041495	quercetin	flavonoids	CCNA2	jvhua
+560	HBIN041495	quercetin	flavonoids	COL3A1	jvhua
+561	HBIN041495	quercetin	flavonoids	BMP2	jvhua
+562	HBIN041495	quercetin	flavonoids	PRSS1	jvhua
+563	HBIN041495	quercetin	flavonoids	IGFBP3	jvhua
+564	HBIN041495	quercetin	flavonoids	AKT1	jvhua
+565	HBIN041495	quercetin	flavonoids	IL10	jvhua
+566	HBIN041495	quercetin	flavonoids	MMP9	jvhua
+567	HBIN041495	quercetin	flavonoids	POR	jvhua
+568	HBIN041495	quercetin	flavonoids	MAPK14	jvhua
+569	HBIN041495	quercetin	flavonoids	CDK1	jvhua
+570	HBIN041495	quercetin	flavonoids	CRP	jvhua
+571	HBIN041495	quercetin	flavonoids	HMOX1	jvhua
+572	HBIN041495	quercetin	flavonoids	SOD1	jvhua
+573	HBIN041495	quercetin	flavonoids	CLDN4	jvhua
+574	HBIN041495	quercetin	flavonoids	TGFB1	jvhua
+575	HBIN041495	quercetin	flavonoids	THBD	jvhua
+576	HBIN041495	quercetin	flavonoids	TOP1	jvhua
+577	HBIN041495	quercetin	flavonoids	DIO1	jvhua
+578	HBIN041495	quercetin	flavonoids	HERC5	jvhua
+579	HBIN041495	quercetin	flavonoids	ALOX5	jvhua
+580	HBIN041495	quercetin	flavonoids	HSPA5	jvhua
+581	HBIN041495	quercetin	flavonoids	RB1	jvhua
+582	HBIN041495	quercetin	flavonoids	ACHE	jvhua
+583	HBIN041495	quercetin	flavonoids	CYP1B1	jvhua
+584	HBIN041495	quercetin	flavonoids	PTGS1	jvhua
+585	HBIN041495	quercetin	flavonoids	ACACA	jvhua
+586	HBIN041495	quercetin	flavonoids	SERPINE1	jvhua
+587	HBIN041495	quercetin	flavonoids	PRKCA	jvhua
+588	HBIN041495	quercetin	flavonoids	IL1A	jvhua
+589	HBIN041495	quercetin	flavonoids	PTGER3	jvhua
+590	HBIN041495	quercetin	flavonoids	FOS	jvhua
+591	HBIN041495	quercetin	flavonoids	AKR1B1	jvhua
+592	HBIN041495	quercetin	flavonoids	TOP2A	jvhua
+593	HBIN041495	quercetin	flavonoids	GSK3B	jvhua
+594	HBIN041495	quercetin	flavonoids	CASP8	jvhua
+595	HBIN041495	quercetin	flavonoids	MAOB	jvhua
+596	HBIN041495	quercetin	flavonoids	NKX3-1	jvhua
+597	HBIN041495	quercetin	flavonoids	IL6	jvhua
+598	HBIN041495	quercetin	flavonoids	IL1B	jvhua
+599	HBIN041495	quercetin	flavonoids	POLD1	jvhua
+600	HBIN041495	quercetin	flavonoids	ESR1	jvhua
+601	HBIN041495	quercetin	flavonoids	ABCG2	jvhua
+602	HBIN041495	quercetin	flavonoids	HK2	jvhua
+603	HBIN041495	quercetin	flavonoids	BCL2L1	jvhua
+604	HBIN041495	quercetin	flavonoids	ACP3	jvhua
+605	HBIN041495	quercetin	flavonoids	VCAM1	jvhua
+606	HBIN041495	quercetin	flavonoids	GJA1	jvhua
+607	HBIN047272	truflex obp	Other	CHRM1	jvhua
+608	HBIN047272	truflex obp	Other	ADRB2	jvhua
+609	HBIN047272	truflex obp	Other	ADRA1B	jvhua
+610	HBIN047272	truflex obp	Other	SLC6A3	jvhua
+611	HBIN047272	truflex obp	Other	SCN5A	jvhua
+612	HBIN047272	truflex obp	Other	DPP4	jvhua
+613	HBIN047272	truflex obp	Other	SLC6A2	jvhua
+614	HBIN047272	truflex obp	Other	PDE3A	jvhua
+615	HBIN031031	isopimaric acid	terpenes	NCOA2	songjie
+616	HBIN031031	isopimaric acid	terpenes	RXRA	songjie
+617	HBIN031031	isopimaric acid	terpenes	NOS2	songjie
+618	HBIN031031	isopimaric acid	terpenes	AR	songjie
+619	HBIN031031	isopimaric acid	terpenes	NCOA1	songjie
+620	HBIN031031	isopimaric acid	terpenes	NR3C1	songjie
+621	HBIN031031	isopimaric acid	terpenes	ESR1	songjie
+622	HBIN031031	isopimaric acid	terpenes	ACHE	songjie
+623	HBIN031031	isopimaric acid	terpenes	PTGS2	songjie
+624	HBIN031031	isopimaric acid	terpenes	PGR	songjie
+625	HBIN000290	11,14-eicosadienoic acid	fatty acids	NCOA2	baiziren
+626	HBIN000290	11,14-eicosadienoic acid	fatty acids	ACHE	baiziren
+627	HBIN000290	11,14-eicosadienoic acid	fatty acids	CA2	baiziren
+628	HBIN000290	11,14-eicosadienoic acid	fatty acids	PPARG	baiziren
+629	HBIN011965	5z-eicosenoic acid	fatty acids	NCOA2	baiziren
+630	HBIN011965	5z-eicosenoic acid	fatty acids	PPARG	baiziren
+631	HBIN011965	5z-eicosenoic acid	fatty acids	PTGS1	baiziren
+632	HBIN011965	5z-eicosenoic acid	fatty acids	ACHE	baiziren
+633	HBIN011965	5z-eicosenoic acid	fatty acids	DPP4	baiziren
+634	HBIN016572	arachidonic acid	fatty acids	PTEN	baiziren
+635	HBIN016572	arachidonic acid	fatty acids	KCNK2	baiziren
+636	HBIN016572	arachidonic acid	fatty acids	TRPV1	baiziren
+637	HBIN016572	arachidonic acid	fatty acids	CCND1	baiziren
+638	HBIN016572	arachidonic acid	fatty acids	C1R	baiziren
+639	HBIN016572	arachidonic acid	fatty acids	PLA2G4A	baiziren
+640	HBIN016572	arachidonic acid	fatty acids	RELA	baiziren
+641	HBIN016572	arachidonic acid	fatty acids	DPEP1	baiziren
+642	HBIN016572	arachidonic acid	fatty acids	HERC5	baiziren
+643	HBIN016572	arachidonic acid	fatty acids	EGF	baiziren
+644	HBIN016572	arachidonic acid	fatty acids	ALOX5	baiziren
+645	HBIN016572	arachidonic acid	fatty acids	GLB1	baiziren
+646	HBIN016572	arachidonic acid	fatty acids	MAPK1	baiziren
+647	HBIN016572	arachidonic acid	fatty acids	RXRG	baiziren
+648	HBIN016572	arachidonic acid	fatty acids	ABCG1	baiziren
+649	HBIN016572	arachidonic acid	fatty acids	ACHE	baiziren
+650	HBIN016572	arachidonic acid	fatty acids	PTGS1	baiziren
+651	HBIN016572	arachidonic acid	fatty acids	TNFRSF1B	baiziren
+652	HBIN016572	arachidonic acid	fatty acids	CETP	baiziren
+653	HBIN016572	arachidonic acid	fatty acids	PTGES	baiziren
+654	HBIN016572	arachidonic acid	fatty acids	PTGES2	baiziren
+655	HBIN016572	arachidonic acid	fatty acids	ALDH3A1	baiziren
+656	HBIN016572	arachidonic acid	fatty acids	PPP5C	baiziren
+657	HBIN016572	arachidonic acid	fatty acids	TNFRSF1A	baiziren
+658	HBIN016572	arachidonic acid	fatty acids	SELP	baiziren
+659	HBIN016572	arachidonic acid	fatty acids	PECAM1	baiziren
+660	HBIN016572	arachidonic acid	fatty acids	ABCA1	baiziren
+661	HBIN016572	arachidonic acid	fatty acids	CASP3	baiziren
+662	HBIN016572	arachidonic acid	fatty acids	RETN	baiziren
+663	HBIN016572	arachidonic acid	fatty acids	PPARG	baiziren
+664	HBIN016572	arachidonic acid	fatty acids	CDK2	baiziren
+665	HBIN016572	arachidonic acid	fatty acids	COL1A2	baiziren
+666	HBIN016572	arachidonic acid	fatty acids	DPP4	baiziren
+667	HBIN016572	arachidonic acid	fatty acids	PTGS2	baiziren
+668	HBIN016572	arachidonic acid	fatty acids	UCP2	baiziren
+669	HBIN016572	arachidonic acid	fatty acids	ABCC4	baiziren
+670	HBIN016572	arachidonic acid	fatty acids	PRKCB	baiziren
+671	HBIN016572	arachidonic acid	fatty acids	NOS2	baiziren
+672	HBIN016572	arachidonic acid	fatty acids	RXRA	baiziren
+673	HBIN016572	arachidonic acid	fatty acids	KCNK10	baiziren
+674	HBIN016572	arachidonic acid	fatty acids	ESR1	baiziren
+675	HBIN016572	arachidonic acid	fatty acids	SLC6A2	baiziren
+676	HBIN016572	arachidonic acid	fatty acids	CDK4	baiziren
+677	HBIN016572	arachidonic acid	fatty acids	NOS3	baiziren
+678	HBIN016572	arachidonic acid	fatty acids	G6PD	baiziren
+679	HBIN016572	arachidonic acid	fatty acids	ALDH2	baiziren
+680	HBIN023791	dihomolinolenic acid	fatty acids	PTGS1	baiziren
+681	HBIN023791	dihomolinolenic acid	fatty acids	PTGS2	baiziren
+682	HBIN023791	dihomolinolenic acid	fatty acids	PPARG	baiziren
+683	HBIN044158	sitosterol	steroids	SREBF1	baiziren
+684	HBIN044158	sitosterol	steroids	SREBF2	baiziren
+685	HBIN044158	sitosterol	steroids	APOE	baiziren
+686	HBIN044158	sitosterol	steroids	ICAM1	baiziren
+687	HBIN044158	sitosterol	steroids	BAX	baiziren
+688	HBIN044158	sitosterol	steroids	TGFB1	baiziren
+689	HBIN044158	sitosterol	steroids	BCL2	baiziren
+690	HBIN044158	sitosterol	steroids	AR	baiziren
+691	HBIN044158	sitosterol	steroids	PON1	baiziren
+692	HBIN044158	sitosterol	steroids	ABCB11	baiziren
+693	HBIN044158	sitosterol	steroids	JUN	baiziren
+694	HBIN044158	sitosterol	steroids	NR3C2	baiziren
+695	HBIN044158	sitosterol	steroids	PRKCA	baiziren
+696	HBIN044158	sitosterol	steroids	CASP9	baiziren
+697	HBIN044158	sitosterol	steroids	NCOA2	baiziren
+698	HBIN044158	sitosterol	steroids	NR3C1	baiziren
+699	HBIN044158	sitosterol	steroids	CASP3	baiziren
+700	HBIN044158	sitosterol	steroids	CASP8	baiziren
+701	HBIN044158	sitosterol	steroids	PGR	baiziren
+702	HBIN044158	sitosterol	steroids	DHCR24	baiziren
+703	HBIN044158	sitosterol	steroids	MAP2	baiziren
+704	HBIN044158	sitosterol	steroids	ESR1	baiziren
+705	HBIN006367	(2r)-2-[(3s,5r,10s,13r,14r,16r,17r)-3,16-dihydroxy-4,4,10,13,14-pentamethyl-2,3,5,6,12,15,16,17-octahydro-1h-cyclopenta[a]phenanthren-17-yl]-5-isopropyl-hex-5-enoic acid	terpenes	NR3C1	fuling
+706	HBIN006367	(2r)-2-[(3s,5r,10s,13r,14r,16r,17r)-3,16-dihydroxy-4,4,10,13,14-pentamethyl-2,3,5,6,12,15,16,17-octahydro-1h-cyclopenta[a]phenanthren-17-yl]-5-isopropyl-hex-5-enoic acid	terpenes	AR	fuling
+707	HBIN006368	(2r)-2-[(3s,5r,10s,13r,14r,16r,17r)-3,16-dihydroxy-4,4,10,13,14-pentamethyl-2,3,5,6,12,15,16,17-octahydro-1h-cyclopenta[a]phenanthren-17-yl]-6-methylhept-5-enoic acid	terpenes	NCOA2	fuling
+708	HBIN006368	(2r)-2-[(3s,5r,10s,13r,14r,16r,17r)-3,16-dihydroxy-4,4,10,13,14-pentamethyl-2,3,5,6,12,15,16,17-octahydro-1h-cyclopenta[a]phenanthren-17-yl]-6-methylhept-5-enoic acid	terpenes	NR3C2	fuling
+709	HBIN006368	(2r)-2-[(3s,5r,10s,13r,14r,16r,17r)-3,16-dihydroxy-4,4,10,13,14-pentamethyl-2,3,5,6,12,15,16,17-octahydro-1h-cyclopenta[a]phenanthren-17-yl]-6-methylhept-5-enoic acid	terpenes	AR	fuling
+710	HBIN006368	(2r)-2-[(3s,5r,10s,13r,14r,16r,17r)-3,16-dihydroxy-4,4,10,13,14-pentamethyl-2,3,5,6,12,15,16,17-octahydro-1h-cyclopenta[a]phenanthren-17-yl]-6-methylhept-5-enoic acid	terpenes	NR3C1	fuling
+711	HBIN008225	3beta-hydroxy-24-methylene-8-lanostene-21-oic acid	terpenes	NR3C1	fuling
+712	HBIN008225	3beta-hydroxy-24-methylene-8-lanostene-21-oic acid	terpenes	AR	fuling
+713	HBIN012997	7,9(11)-dehydropachymic acid	terpenes	NR3C1	fuling
+714	HBIN020146	cerevisterol	steroids	AR	fuling
+715	HBIN020146	cerevisterol	steroids	NR3C2	fuling
+716	HBIN020146	cerevisterol	steroids	ESR1	fuling
+717	HBIN020146	cerevisterol	steroids	NR3C1	fuling
+718	HBIN025543	ergosta-7,22e-dien-3beta-ol	steroids	PGR	fuling
+719	HBIN025543	ergosta-7,22e-dien-3beta-ol	steroids	ESR1	fuling
+720	HBIN025543	ergosta-7,22e-dien-3beta-ol	steroids	AR	fuling
+721	HBIN025543	ergosta-7,22e-dien-3beta-ol	steroids	NR3C1	fuling
+722	HBIN025557	ergosterol peroxide	steroids	NCOA2	fuling
+723	HBIN025557	ergosterol peroxide	steroids	AR	fuling
+724	HBIN025557	ergosterol peroxide	steroids	NR3C1	fuling
+725	HBIN025557	ergosterol peroxide	steroids	ESR1	fuling
+726	HBIN025557	ergosterol peroxide	steroids	NR3C2	fuling
+727	HBIN025557	ergosterol peroxide	steroids	PGR	fuling
+728	HBIN028847	hederagenin	terpenes	PRSS1	fuling
+729	HBIN028847	hederagenin	terpenes	CHRM1	fuling
+730	HBIN028847	hederagenin	terpenes	AR	fuling
+731	HBIN028847	hederagenin	terpenes	CHRM2	fuling
+732	HBIN028847	hederagenin	terpenes	GABRA1	fuling
+733	HBIN028847	hederagenin	terpenes	PTGS1	fuling
+734	HBIN028847	hederagenin	terpenes	ACHE	fuling
+735	HBIN028847	hederagenin	terpenes	NCOA2	fuling
+736	HBIN028847	hederagenin	terpenes	GRIA2	fuling
+737	HBIN028847	hederagenin	terpenes	IGHG1	fuling
+738	HBIN028847	hederagenin	terpenes	NR3C1	fuling
+739	HBIN028847	hederagenin	terpenes	SCN5A	fuling
+740	HBIN028847	hederagenin	terpenes	LYZ	fuling
+741	HBIN028847	hederagenin	terpenes	CHRM3	fuling
+742	HBIN028847	hederagenin	terpenes	PPARG	fuling
+743	HBIN028847	hederagenin	terpenes	DPP4	fuling
+744	HBIN028847	hederagenin	terpenes	PTGS2	fuling
+745	HBIN028847	hederagenin	terpenes	PGR	fuling
+746	HBIN028847	hederagenin	terpenes	PDE3A	fuling
+747	HBIN028847	hederagenin	terpenes	RXRA	fuling
+748	HBIN028847	hederagenin	terpenes	ADRA1B	fuling
+749	HBIN028847	hederagenin	terpenes	ESR1	fuling
+750	HBIN028847	hederagenin	terpenes	CA2	fuling
+751	HBIN028847	hederagenin	terpenes	SLC6A2	fuling
+752	HBIN038556	pachymic acid	terpenes	BCL2	fuling
+753	HBIN038556	pachymic acid	terpenes	CDKN1A	fuling
+754	HBIN038556	pachymic acid	terpenes	BAD	fuling
+755	HBIN038556	pachymic acid	terpenes	NR3C1	fuling
+756	HBIN038556	pachymic acid	terpenes	CASP3	fuling
+757	HBIN038556	pachymic acid	terpenes	PLB1	fuling
+758	HBIN038556	pachymic acid	terpenes	CASP9	fuling
+759	HBIN040570	poricoic acid a	terpenes	GAS6	fuling
+760	HBIN040570	poricoic acid a	terpenes	AR	fuling
+761	HBIN040570	poricoic acid a	terpenes	NFE2L2	fuling
+762	HBIN040570	poricoic acid a	terpenes	NR3C1	fuling
+763	HBIN040573	poricoic acid b	terpenes	NR3C1	fuling
+764	HBIN040573	poricoic acid b	terpenes	AR	fuling
+765	HBIN040575	poricoic acid c	terpenes	AR	fuling
+766	HBIN046625	trametenolic acid	terpenes	NR3C2	fuling
+767	HBIN046625	trametenolic acid	terpenes	ESR1	fuling
+768	HBIN046625	trametenolic acid	terpenes	AR	fuling
+769	HBIN046625	trametenolic acid	terpenes	NR3C1	fuling
