@@ -2,6 +2,8 @@
 
 This repository contains the scripts to reproduce the result of the manuscript [*A Network Pharmacology-Based Study of the Anti-aging Properties of Traditional Chinese Medicine Sisheng Bulao Elixir*]( )
 
+Compound-Target network: [*https://starlitnightly.github.io/Analysis_sisheng/index.html*](https://starlitnightly.github.io/Analysis_sisheng/index.html)
+
 ## Abstract
 
 **OBJECTIVE**： To decipher the anti-aging targets and molecular mechanism of Sisheng Bulao Elixir (SBE) by constructing a systematic method based on a novel aging database.
